@@ -20,7 +20,7 @@
   </body>
        <header class="hero">
         <h1>Apple Pie</h1>
-        <img src="images/apple-pie.jpg" alt="Delicious Apple Pie">
+        <img src="https://i.imgur.com/lGGM68Q.jpg" alt="Delicious Apple Pie">
     </header>
 
     <section class="description">
